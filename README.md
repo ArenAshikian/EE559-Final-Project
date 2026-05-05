@@ -11,7 +11,7 @@ The project uses the Kaggle Credit Card Fraud Detection dataset. Each transactio
 Because the dataset is highly imbalanced, model performance is evaluated mainly using precision, recall, and F1-score rather than accuracy alone.
 
 To run the project, download `creditcard.csv` from Kaggle and place it in the main project folder.
-
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 Expected location:
 
 ```text
